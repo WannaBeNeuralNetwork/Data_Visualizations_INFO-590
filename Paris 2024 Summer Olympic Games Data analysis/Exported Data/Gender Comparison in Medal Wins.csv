@@ -1,0 +1,91 @@
+gender,discipline,total_medals,Gold_Medals,Silver_Medals,Bronze_Medals
+Female,Swimming,112,38,38,36
+Female,Athletics,111,36,35,40
+Male,Athletics,110,37,36,37
+Male,Swimming,107,35,37,35
+Female,Rowing,72,24,25,23
+Male,Rowing,72,24,23,25
+Female,Football,62,20,22,20
+Male,Football,62,22,21,19
+Male,Judo,53,14,14,25
+Male,Hockey,52,18,18,16
+Female,Judo,52,14,14,24
+Female,Hockey,50,17,17,16
+Male,Wrestling,48,12,12,24
+Male,Handball,47,16,16,15
+Female,Handball,47,15,17,15
+Male,Fencing,45,15,15,15
+Female,Fencing,45,15,15,15
+Female,"Cycling Track",44,15,14,15
+Male,"Cycling Track",43,14,15,14
+Male,"Rugby Sevens",40,13,14,13
+Male,Volleyball,39,13,13,13
+Female,Volleyball,39,13,13,13
+Male,"Water Polo",39,13,13,13
+Female,"Water Polo",39,13,13,13
+Female,"Rugby Sevens",38,12,14,12
+Male,"Artistic Gymnastics",37,12,12,13
+Male,Basketball,36,12,12,12
+Female,Basketball,36,12,12,12
+Female,"Artistic Gymnastics",30,10,10,10
+Male,Boxing,28,7,7,14
+Male,Equestrian,28,9,10,9
+Female,"Artistic Swimming",27,9,9,9
+Male,Shooting,27,9,9,9
+Female,Shooting,27,9,9,9
+Female,Boxing,24,6,6,12
+Female,Wrestling,24,6,6,12
+Male,Sailing,21,7,7,7
+Female,Sailing,21,7,7,7
+Male,"Canoe Sprint",18,6,6,6
+Female,"Canoe Sprint",18,6,6,6
+Female,Diving,18,6,6,6
+Male,Diving,18,6,6,6
+Female,Taekwondo,16,4,4,8
+Male,Taekwondo,16,4,4,8
+Male,Archery,15,5,5,5
+Female,Archery,15,5,5,5
+Female,Equestrian,15,6,5,4
+Female,"Table Tennis",15,5,5,5
+Male,"Table Tennis",15,5,5,5
+Male,Weightlifting,15,5,5,5
+Female,Weightlifting,15,5,5,5
+Male,"3x3 Basketball",12,4,4,4
+Female,"3x3 Basketball",12,4,4,4
+Male,Badminton,12,4,4,4
+Male,Tennis,12,4,4,4
+Female,Tennis,12,4,4,4
+Female,Badminton,11,4,4,3
+Male,"Canoe Slalom",9,3,3,3
+Female,"Canoe Slalom",9,3,3,3
+Female,Triathlon,9,3,3,3
+Male,Triathlon,9,3,3,3
+Female,"Beach Volleyball",6,2,2,2
+Male,"Beach Volleyball",6,2,2,2
+Female,"Cycling Road",6,2,2,2
+Male,"Cycling Road",6,2,2,2
+Female,Skateboarding,6,2,2,2
+Male,Skateboarding,6,2,2,2
+Female,"Sport Climbing",6,2,2,2
+Male,"Sport Climbing",6,2,2,2
+Male,Breaking,3,1,1,1
+Female,Breaking,3,1,1,1
+Female,"Cycling BMX Freestyle",3,1,1,1
+Male,"Cycling BMX Freestyle",3,1,1,1
+Female,"Cycling BMX Racing",3,1,1,1
+Male,"Cycling BMX Racing",3,1,1,1
+Male,"Cycling Mountain Bike",3,1,1,1
+Female,"Cycling Mountain Bike",3,1,1,1
+Female,Golf,3,1,1,1
+Male,Golf,3,1,1,1
+Male,"Marathon Swimming",3,1,1,1
+Female,"Marathon Swimming",3,1,1,1
+Male,"Modern Pentathlon",3,1,1,1
+Female,"Modern Pentathlon",3,1,1,1
+Female,Surfing,3,1,1,1
+Male,Surfing,3,1,1,1
+Female,"Trampoline Gymnastics",3,1,1,1
+Male,"Trampoline Gymnastics",3,1,1,1
+X,Athletics,1,1,0,0
+O,Equestrian,1,0,0,1
+X,Equestrian,1,0,0,1

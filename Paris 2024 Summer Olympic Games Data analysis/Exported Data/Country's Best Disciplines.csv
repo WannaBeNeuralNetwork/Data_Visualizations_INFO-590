@@ -1,0 +1,480 @@
+country,discipline,Gold_Medals
+AIN,"Trampoline Gymnastics",1
+AIN,Tennis,0
+AIN,Weightlifting,0
+AIN,Rowing,0
+Albania,Wrestling,0
+Algeria,Boxing,1
+Algeria,"Artistic Gymnastics",1
+Algeria,Athletics,0
+Argentina,"Cycling BMX Freestyle",1
+Argentina,Hockey,0
+Argentina,Sailing,0
+Armenia,"Artistic Gymnastics",0
+Armenia,Weightlifting,0
+Armenia,Wrestling,0
+Australia,Swimming,17
+Australia,"Cycling Track",5
+Australia,"Canoe Slalom",3
+Australia,Tennis,2
+Australia,Skateboarding,2
+Australia,"Cycling BMX Racing",1
+Australia,"Cycling Road",1
+Australia,Athletics,1
+Australia,Sailing,1
+Australia,Diving,0
+Australia,Shooting,0
+Australia,Rowing,0
+Australia,"Canoe Sprint",0
+Australia,"Cycling BMX Freestyle",0
+Australia,Surfing,0
+Australia,"Marathon Swimming",0
+Australia,"Water Polo",0
+Australia,Basketball,0
+Australia,Boxing,0
+Australia,Equestrian,0
+Austria,Sailing,3
+Austria,Judo,0
+Austria,"Sport Climbing",0
+Azerbaijan,Judo,2
+Azerbaijan,Wrestling,0
+Azerbaijan,Boxing,0
+Azerbaijan,Taekwondo,0
+Bahrain,Wrestling,1
+Bahrain,Athletics,1
+Bahrain,Weightlifting,0
+Belgium,"Cycling Road",2
+Belgium,Athletics,0
+Belgium,Judo,0
+Belgium,"Cycling Track",0
+Belgium,Taekwondo,0
+Botswana,Athletics,1
+Brazil,"Beach Volleyball",2
+Brazil,Judo,1
+Brazil,"Artistic Gymnastics",1
+Brazil,Boxing,0
+Brazil,"Canoe Sprint",0
+Brazil,Skateboarding,0
+Brazil,Taekwondo,0
+Brazil,Surfing,0
+Brazil,Volleyball,0
+Brazil,Football,0
+Brazil,Athletics,0
+Bulgaria,Wrestling,2
+Bulgaria,Weightlifting,1
+Bulgaria,Boxing,0
+Bulgaria,Taekwondo,0
+"Cabo Verde",Boxing,0
+Canada,Athletics,8
+Canada,Swimming,3
+Canada,Judo,1
+Canada,"Canoe Sprint",1
+Canada,Breaking,1
+Canada,"Trampoline Gymnastics",0
+Canada,Boxing,0
+Canada,Rowing,0
+Canada,Taekwondo,0
+Canada,"Beach Volleyball",0
+Canada,Weightlifting,0
+Canada,"Rugby Sevens",0
+Canada,Diving,0
+Canada,Fencing,0
+Canada,Tennis,0
+Chile,Shooting,1
+Chile,Wrestling,0
+China,Diving,12
+China,"Table Tennis",10
+China,"Artistic Swimming",9
+China,Swimming,6
+China,Shooting,6
+China,Weightlifting,5
+China,Badminton,4
+China,Boxing,3
+China,"Artistic Gymnastics",2
+China,"Cycling BMX Freestyle",1
+China,Athletics,1
+China,Tennis,1
+China,Breaking,0
+China,Archery,0
+China,Taekwondo,0
+China,Hockey,0
+China,"Sport Climbing",0
+China,Judo,0
+China,Golf,0
+China,Wrestling,0
+China,"Trampoline Gymnastics",0
+"Chinese Taipei",Badminton,2
+"Chinese Taipei",Boxing,1
+"Chinese Taipei","Artistic Gymnastics",0
+"Chinese Taipei",Weightlifting,0
+"Chinese Taipei",Shooting,0
+Colombia,Wrestling,0
+Colombia,Weightlifting,0
+Colombia,"Artistic Gymnastics",0
+"Côte d'Ivoire",Taekwondo,0
+Croatia,Rowing,2
+Croatia,Judo,1
+Croatia,Shooting,0
+Croatia,Taekwondo,0
+Croatia,"Water Polo",0
+Croatia,Athletics,0
+Croatia,Tennis,0
+Cuba,Boxing,1
+Cuba,Wrestling,1
+Cuba,Taekwondo,0
+Cuba,"Canoe Sprint",0
+Cyprus,Sailing,0
+Czechia,"Canoe Sprint",2
+Czechia,Tennis,2
+Czechia,Fencing,0
+Czechia,Athletics,0
+Denmark,Handball,16
+Denmark,Badminton,1
+Denmark,"Cycling Track",0
+Denmark,"Canoe Sprint",0
+Denmark,Wrestling,0
+Denmark,Equestrian,0
+Denmark,Sailing,0
+Denmark,Taekwondo,0
+Dominica,Athletics,1
+"Dominican Republic",Athletics,1
+"Dominican Republic",Boxing,0
+"DPR Korea",Wrestling,0
+"DPR Korea","Table Tennis",0
+"DPR Korea",Boxing,0
+"DPR Korea",Diving,0
+Ecuador,Athletics,1
+Ecuador,Weightlifting,0
+Ecuador,Wrestling,0
+Egypt,"Modern Pentathlon",1
+Egypt,Fencing,0
+Egypt,Weightlifting,0
+EOR,Boxing,0
+Ethiopia,Athletics,1
+Fiji,"Rugby Sevens",0
+France,Judo,15
+France,"Rugby Sevens",13
+France,Volleyball,13
+France,Swimming,4
+France,"Canoe Slalom",1
+France,Fencing,1
+France,"Cycling Mountain Bike",1
+France,Surfing,1
+France,"Cycling BMX Racing",1
+France,Triathlon,1
+France,"Cycling Track",1
+France,Taekwondo,1
+France,Boxing,0
+France,"Table Tennis",0
+France,Handball,0
+France,"Cycling Road",0
+France,Athletics,0
+France,"3x3 Basketball",0
+France,Football,0
+France,Breaking,0
+France,Archery,0
+France,"Cycling BMX Freestyle",0
+France,Sailing,0
+France,Shooting,0
+France,"Modern Pentathlon",0
+France,Basketball,0
+France,Equestrian,0
+Georgia,Judo,1
+Georgia,Weightlifting,1
+Georgia,Wrestling,1
+Georgia,Boxing,0
+Germany,Equestrian,7
+Germany,"3x3 Basketball",4
+Germany,"Canoe Sprint",4
+Germany,Triathlon,4
+Germany,Athletics,1
+Germany,Swimming,1
+Germany,Rowing,1
+Germany,Judo,0
+Germany,"Cycling Track",0
+Germany,Golf,0
+Germany,"Marathon Swimming",0
+Germany,Hockey,0
+Germany,Football,0
+Germany,"Beach Volleyball",0
+Germany,Archery,0
+Germany,Boxing,0
+Germany,"Canoe Slalom",0
+Germany,Handball,0
+"Great Britain",Rowing,15
+"Great Britain",Equestrian,8
+"Great Britain",Swimming,6
+"Great Britain","Cycling Track",4
+"Great Britain",Shooting,1
+"Great Britain","Trampoline Gymnastics",1
+"Great Britain",Sailing,1
+"Great Britain",Athletics,1
+"Great Britain","Sport Climbing",1
+"Great Britain","Cycling Mountain Bike",1
+"Great Britain",Triathlon,1
+"Great Britain",Taekwondo,0
+"Great Britain","Cycling BMX Freestyle",0
+"Great Britain","Canoe Slalom",0
+"Great Britain",Diving,0
+"Great Britain",Skateboarding,0
+"Great Britain","Artistic Gymnastics",0
+"Great Britain",Weightlifting,0
+"Great Britain",Golf,0
+"Great Britain",Boxing,0
+"Great Britain","Cycling Road",0
+Greece,Athletics,1
+Greece,Swimming,0
+Greece,"Artistic Gymnastics",0
+Greece,Rowing,0
+Greece,Wrestling,0
+Greece,Judo,0
+Grenada,Athletics,0
+Guatemala,Shooting,1
+"Hong Kong, China",Fencing,2
+"Hong Kong, China",Swimming,0
+Hungary,Fencing,4
+Hungary,Swimming,2
+Hungary,"Modern Pentathlon",1
+Hungary,"Marathon Swimming",1
+Hungary,Taekwondo,1
+Hungary,Athletics,0
+Hungary,"Canoe Sprint",0
+Hungary,Shooting,0
+India,Athletics,0
+India,Hockey,0
+India,Wrestling,0
+India,Shooting,0
+Indonesia,Weightlifting,1
+Indonesia,"Sport Climbing",1
+"IR Iran",Wrestling,2
+"IR Iran",Taekwondo,1
+Ireland,Rowing,2
+Ireland,Swimming,1
+Ireland,"Artistic Gymnastics",1
+Ireland,Boxing,1
+Israel,Sailing,1
+Israel,Judo,0
+Israel,"Artistic Gymnastics",0
+Italy,Volleyball,13
+Italy,Fencing,4
+Italy,Sailing,3
+Italy,Tennis,2
+Italy,"Cycling Track",2
+Italy,Shooting,2
+Italy,Swimming,2
+Italy,"Canoe Slalom",1
+Italy,"Artistic Gymnastics",1
+Italy,Judo,1
+Italy,"Marathon Swimming",0
+Italy,Rowing,0
+Italy,Taekwondo,0
+Italy,"Modern Pentathlon",0
+Italy,"Cycling Road",0
+Italy,Athletics,0
+Italy,Weightlifting,0
+Jamaica,Athletics,1
+Japan,Wrestling,8
+Japan,"Artistic Gymnastics",7
+Japan,Fencing,5
+Japan,Judo,3
+Japan,Skateboarding,2
+Japan,Athletics,1
+Japan,Breaking,1
+Japan,Badminton,0
+Japan,Golf,0
+Japan,"Sport Climbing",0
+Japan,"Modern Pentathlon",0
+Japan,"Table Tennis",0
+Japan,Swimming,0
+Japan,Diving,0
+Japan,Sailing,0
+Japan,Equestrian,0
+Jordan,Taekwondo,0
+Kazakhstan,Judo,1
+Kazakhstan,Wrestling,0
+Kazakhstan,"Artistic Gymnastics",0
+Kazakhstan,Shooting,0
+Kazakhstan,Boxing,0
+Kenya,Athletics,4
+Korea,Archery,10
+Korea,Fencing,5
+Korea,Shooting,3
+Korea,Taekwondo,2
+Korea,Badminton,1
+Korea,"Table Tennis",0
+Korea,Judo,0
+Korea,Boxing,0
+Korea,Swimming,0
+Korea,Weightlifting,0
+Korea,"Modern Pentathlon",0
+Kosovo,Judo,0
+Kyrgyzstan,Wrestling,0
+Kyrgyzstan,Boxing,0
+Lithuania,"3x3 Basketball",0
+Lithuania,Rowing,0
+Lithuania,Athletics,0
+Lithuania,Breaking,0
+Malaysia,Badminton,0
+Mexico,Boxing,0
+Mexico,Archery,0
+Mexico,Diving,0
+Mexico,Judo,0
+Mongolia,Judo,0
+Morocco,Athletics,1
+Morocco,Football,0
+Netherlands,Hockey,35
+Netherlands,Rowing,11
+Netherlands,Athletics,7
+Netherlands,"Cycling Track",6
+Netherlands,"3x3 Basketball",4
+Netherlands,Sailing,3
+Netherlands,"Marathon Swimming",1
+Netherlands,Swimming,0
+Netherlands,"Cycling BMX Racing",0
+Netherlands,"Water Polo",0
+Netherlands,Equestrian,0
+Netherlands,"Cycling Road",0
+"New Zealand","Rugby Sevens",12
+"New Zealand","Canoe Sprint",5
+"New Zealand","Cycling Track",2
+"New Zealand",Rowing,2
+"New Zealand","Canoe Slalom",1
+"New Zealand",Golf,1
+"New Zealand",Athletics,1
+"New Zealand",Triathlon,0
+"New Zealand",Sailing,0
+Norway,Handball,15
+Norway,Athletics,2
+Norway,Weightlifting,1
+Norway,Wrestling,0
+Norway,Sailing,0
+Norway,"Beach Volleyball",0
+Pakistan,Athletics,1
+Panama,Boxing,0
+Peru,Sailing,0
+Philippines,"Artistic Gymnastics",2
+Philippines,Boxing,0
+Poland,"Sport Climbing",1
+Poland,Athletics,0
+Poland,Fencing,0
+Poland,Volleyball,0
+Poland,Tennis,0
+Poland,Boxing,0
+Poland,Rowing,0
+Poland,"Canoe Slalom",0
+Poland,"Cycling Track",0
+Portugal,"Cycling Track",2
+Portugal,Athletics,0
+Portugal,Judo,0
+"Puerto Rico",Wrestling,0
+"Puerto Rico",Athletics,0
+Qatar,Athletics,0
+"Republic of Moldova","Canoe Sprint",0
+"Republic of Moldova",Wrestling,0
+"Republic of Moldova",Judo,0
+Romania,Rowing,11
+Romania,Swimming,1
+Romania,Weightlifting,0
+Romania,"Artistic Gymnastics",0
+"Saint Lucia",Athletics,1
+Serbia,"Water Polo",13
+Serbia,Shooting,2
+Serbia,Tennis,1
+Serbia,Taekwondo,0
+Serbia,Basketball,0
+Singapore,Sailing,0
+Slovakia,"Canoe Slalom",0
+Slovenia,"Sport Climbing",1
+Slovenia,Judo,1
+Slovenia,Sailing,0
+"South Africa",Swimming,1
+"South Africa","Cycling Mountain Bike",0
+"South Africa",Athletics,0
+"South Africa","Rugby Sevens",0
+Spain,Football,22
+Spain,"Water Polo",13
+Spain,Athletics,3
+Spain,Sailing,2
+Spain,"3x3 Basketball",0
+Spain,"Canoe Slalom",0
+Spain,"Canoe Sprint",0
+Spain,Judo,0
+Spain,Boxing,0
+Spain,"Artistic Swimming",0
+Spain,Tennis,0
+Spain,Handball,0
+Sweden,Swimming,2
+Sweden,"Beach Volleyball",2
+Sweden,Athletics,1
+Sweden,"Table Tennis",0
+Sweden,"Cycling Mountain Bike",0
+Sweden,Sailing,0
+Sweden,Judo,0
+Sweden,Shooting,0
+Switzerland,Shooting,1
+Switzerland,"Cycling BMX Racing",0
+Switzerland,Triathlon,0
+Switzerland,Rowing,0
+Switzerland,Swimming,0
+Switzerland,Equestrian,0
+Switzerland,"Beach Volleyball",0
+Tajikistan,Judo,0
+Tajikistan,Boxing,0
+Thailand,Taekwondo,1
+Thailand,Badminton,0
+Thailand,Boxing,0
+Thailand,Weightlifting,0
+Tunisia,Taekwondo,1
+Tunisia,Fencing,0
+Türkiye,Archery,0
+Türkiye,Shooting,0
+Türkiye,Taekwondo,0
+Türkiye,Boxing,0
+Türkiye,Wrestling,0
+Uganda,Athletics,1
+Ukraine,Fencing,4
+Ukraine,Boxing,1
+Ukraine,Athletics,1
+Ukraine,"Artistic Gymnastics",0
+Ukraine,Wrestling,0
+Ukraine,Shooting,0
+"United States",Athletics,30
+"United States",Swimming,27
+"United States",Basketball,24
+"United States",Football,20
+"United States","Cycling Track",7
+"United States","Artistic Gymnastics",7
+"United States",Fencing,5
+"United States",Rowing,4
+"United States",Wrestling,2
+"United States",Shooting,1
+"United States",Golf,1
+"United States",Weightlifting,1
+"United States","Cycling Road",1
+"United States",Surfing,1
+"United States",Sailing,0
+"United States",Volleyball,0
+"United States","Cycling Mountain Bike",0
+"United States","Artistic Swimming",0
+"United States",Boxing,0
+"United States",Diving,0
+"United States","Rugby Sevens",0
+"United States",Skateboarding,0
+"United States",Tennis,0
+"United States","Canoe Slalom",0
+"United States","Cycling BMX Freestyle",0
+"United States","Sport Climbing",0
+"United States","Canoe Sprint",0
+"United States",Taekwondo,0
+"United States","3x3 Basketball",0
+"United States",Archery,0
+"United States",Triathlon,0
+"United States",Breaking,0
+"United States",Equestrian,0
+"United States","Water Polo",0
+Uzbekistan,Boxing,5
+Uzbekistan,Taekwondo,1
+Uzbekistan,Judo,1
+Uzbekistan,Wrestling,1
+Uzbekistan,Weightlifting,0
+Zambia,Athletics,0

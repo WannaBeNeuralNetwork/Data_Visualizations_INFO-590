@@ -1,0 +1,280 @@
+event,country,total_medals,Gold_Medals,Silver_Medals,Bronze_Medals
+Men,France,67,28,38,1
+Women,"United States",62,33,13,16
+Men,"United States",38,12,0,26
+Women,Brazil,38,2,23,13
+Men,Spain,37,22,0,15
+Men,Germany,36,0,36,0
+Women,Netherlands,31,17,1,13
+Women,France,30,0,29,1
+Women,Australia,26,1,13,12
+Men,Serbia,25,13,0,12
+Women,Germany,24,4,0,20
+Men,Netherlands,22,22,0,0
+Men,Morocco,19,0,0,19
+Women,Spain,17,13,4,0
+Women,Canada,17,0,16,1
+Women,China,17,0,17,0
+Men,Denmark,16,16,0,0
+Men,India,16,0,0,16
+Women,Argentina,16,0,0,16
+Women,Norway,15,15,0,0
+Women,Denmark,15,0,0,15
+"Mixed Team",France,14,14,0,0
+Men,Fiji,14,0,14,0
+"Mixed Team",Japan,14,0,14,0
+Women,Italy,13,13,0,0
+"Mixed Team",Korea,13,2,0,11
+Men,"South Africa",13,0,0,13
+Men,Poland,13,0,13,0
+Men,Croatia,13,0,13,0
+Women,"New Zealand",12,12,0,0
+"Mixed Team",Brazil,10,0,0,10
+"Men's Eight","Great Britain",9,9,0,0
+"Women's Eight",Romania,9,9,0,0
+Team,China,9,9,0,0
+"4 x 400m Relay Mixed","Great Britain",9,0,0,9
+"Men's Eight",Netherlands,9,0,9,0
+"Men's Eight","United States",9,0,0,9
+"Women's Eight",Canada,9,0,9,0
+"Women's Eight","Great Britain",9,0,0,9
+Team,"United States",9,0,9,0
+Team,Spain,9,0,0,9
+"Mixed 4 x 100m Medley Relay","United States",8,8,0,0
+"Women's 4 x 100m Medley Relay","United States",8,8,0,0
+"Men's Team",China,8,3,5,0
+"Mixed 4 x 100m Medley Relay",Australia,8,0,0,8
+"Women's 4 x 100m Medley Relay",Australia,8,0,8,0
+"Women's 4 x 400m Relay","Great Britain",8,0,0,8
+"Men's 4 x 400m Relay","United States",7,7,0,0
+"Men's 4 x 200m Freestyle Relay","United States",7,0,7,0
+"Women's 4 x 200m Freestyle Relay","United States",7,0,7,0
+"Men's 4 x 100m Medley Relay","United States",7,0,7,0
+"Women's 4 x 100m Medley Relay",China,7,0,0,7
+"Men's 4 x 100m Freestyle Relay","United States",6,6,0,0
+"Women's 4 x 100m Freestyle Relay",Australia,6,6,0,0
+"Men's 4 x 200m Freestyle Relay","Great Britain",6,6,0,0
+"Women's 4 x 200m Freestyle Relay",Australia,6,6,0,0
+"4 x 400m Relay Mixed",Netherlands,6,6,0,0
+"Women's Team Pursuit","United States",6,6,0,0
+"Men's 4 x 100m Relay",Canada,6,6,0,0
+"Women's 4 x 100m Relay","United States",6,6,0,0
+"Women's 4 x 400m Relay","United States",6,6,0,0
+"Mixed Doubles",China,6,4,2,0
+"Women's Team",Korea,6,3,0,3
+"Women's Team",China,6,3,3,0
+"Men's 4 x 100m Freestyle Relay",Italy,6,0,0,6
+"Women's 4 x 100m Freestyle Relay","United States",6,0,6,0
+"Men's Team",France,6,0,3,3
+"Men's 4 x 200m Freestyle Relay",Australia,6,0,0,6
+"Women's 4 x 200m Freestyle Relay",China,6,0,0,6
+"4 x 400m Relay Mixed","United States",6,0,6,0
+"Mixed 4 x 100m Medley Relay",China,6,0,6,0
+"Men's 4 x 100m Medley Relay",France,6,0,0,6
+"Men's Team Pursuit","Great Britain",6,0,6,0
+"Women's Team Pursuit","Great Britain",6,0,0,6
+"Women's 4 x 100m Relay","Great Britain",6,0,6,0
+"Men's 4 x 400m Relay",Botswana,6,0,6,0
+"Men's 4 x 400m Relay","Great Britain",6,0,0,6
+"Men's Team",Japan,5,5,0,0
+"Women's Team","United States",5,5,0,0
+"Men's 4 x 100m Medley Relay",China,5,5,0,0
+"Men's Team Pursuit",Australia,5,5,0,0
+"Men's 4 x 100m Freestyle Relay",Australia,5,0,5,0
+"Women's 4 x 100m Freestyle Relay",China,5,0,0,5
+"Men's Team","United States",5,0,0,5
+"Women's Team",Italy,5,0,5,0
+"Women's Team",Brazil,5,0,0,5
+"Men's Team Pursuit",Italy,5,0,0,5
+"Women's Team Pursuit","New Zealand",5,0,5,0
+"Men's 4 x 100m Relay","South Africa",5,0,5,0
+"Men's 4 x 100m Relay","Great Britain",5,0,0,5
+"Women's 4 x 100m Relay",Germany,5,0,0,5
+"Women's 4 x 400m Relay",Netherlands,5,0,5,0
+"Eventing Team","Great Britain",4,4,0,0
+"Women's Épée Team",Italy,4,4,0,0
+"Men's Sabre Team",Korea,4,4,0,0
+"Men's Quadruple Sculls",Netherlands,4,4,0,0
+"Women's Quadruple Sculls","Great Britain",4,4,0,0
+"Women's Foil Team","United States",4,4,0,0
+"Men's Four","United States",4,4,0,0
+"Women's Four",Netherlands,4,4,0,0
+"Jumping Team","Great Britain",4,4,0,0
+"Men's Épée Team",Hungary,4,4,0,0
+"Dressage Team",Germany,4,4,0,0
+"Women's Sabre Team",Ukraine,4,4,0,0
+"Men's Foil Team",Japan,4,4,0,0
+"Women's Team Sprint","Great Britain",4,4,0,0
+"Mixed Relay",Germany,4,4,0,0
+"Men's Team Sprint",Netherlands,4,4,0,0
+"Men's Kayak Four 500m",Germany,4,4,0,0
+"Women's Kayak Four 500m","New Zealand",4,4,0,0
+"Women's Singles",China,4,2,2,0
+"Women's Doubles",China,4,2,2,0
+"Eventing Team",France,4,0,4,0
+"Eventing Team",Japan,4,0,0,4
+"Women's Épée Team",France,4,0,4,0
+"Women's Épée Team",Poland,4,0,0,4
+"Mixed Doubles",Korea,4,0,2,2
+"Men's Sabre Team",Hungary,4,0,4,0
+"Men's Sabre Team",France,4,0,0,4
+"Men's Quadruple Sculls",Italy,4,0,4,0
+"Men's Quadruple Sculls",Poland,4,0,0,4
+"Women's Quadruple Sculls",Netherlands,4,0,4,0
+"Women's Quadruple Sculls",Germany,4,0,0,4
+"Women's Foil Team",Italy,4,0,4,0
+"Women's Foil Team",Japan,4,0,0,4
+"Men's Four","New Zealand",4,0,4,0
+"Men's Four","Great Britain",4,0,0,4
+"Women's Four","Great Britain",4,0,4,0
+"Women's Four","New Zealand",4,0,0,4
+"Jumping Team","United States",4,0,4,0
+"Jumping Team",France,4,0,0,4
+"Men's Épée Team",Japan,4,0,4,0
+"Men's Épée Team",Czechia,4,0,0,4
+"Dressage Team",Denmark,4,0,4,0
+"Dressage Team","Great Britain",4,0,0,4
+"Women's Sabre Team",Korea,4,0,4,0
+"Women's Sabre Team",Japan,4,0,0,4
+"Men's Doubles","United States",4,0,2,2
+"Men's Foil Team",Italy,4,0,4,0
+"Men's Foil Team",France,4,0,0,4
+Men,Lithuania,4,0,0,4
+"Women's Team Sprint","New Zealand",4,0,4,0
+"Women's Team Sprint",Germany,4,0,0,4
+"Mixed Relay","United States",4,0,4,0
+"Mixed Relay","Great Britain",4,0,0,4
+"Men's Team Sprint","Great Britain",4,0,4,0
+"Men's Team Sprint",Australia,4,0,0,4
+"Men's Kayak Four 500m",Australia,4,0,4,0
+"Men's Kayak Four 500m",Spain,4,0,0,4
+"Women's Kayak Four 500m",Germany,4,0,4,0
+"Women's Kayak Four 500m",Hungary,4,0,0,4
+"Men's Team",Korea,3,3,0,0
+"Women's Individual",France,3,1,1,1
+"Women's Individual",Korea,3,1,1,1
+Women,Switzerland,3,0,0,3
+"Women's Team",Mexico,3,0,0,3
+"Men's Team",Türkiye,3,0,0,3
+"Men's Team",Sweden,3,0,3,0
+"Women's Team",Japan,3,0,3,0
+"Women's Synchronised 3m Springboard",China,2,2,0,0
+"10m Air Rifle Mixed Team",China,2,2,0,0
+"Men's Synchronised 10m Platform",China,2,2,0,0
+"10m Air Pistol Mixed Team",Serbia,2,2,0,0
+"Women's Synchronised 10m Platform",China,2,2,0,0
+"Men's Double Sculls",Romania,2,2,0,0
+"Women's Double Sculls","New Zealand",2,2,0,0
+"Men's Synchronised 3m Springboard",China,2,2,0,0
+"Lightweight Men's Double Sculls",Ireland,2,2,0,0
+"Lightweight Women's Double Sculls","Great Britain",2,2,0,0
+"Men's Pair",Croatia,2,2,0,0
+"Women's Pair",Netherlands,2,2,0,0
+"Men's Skiff",Spain,2,2,0,0
+"Women's Skiff",Netherlands,2,2,0,0
+"Mixed Doubles",Czechia,2,2,0,0
+"Men's Doubles",Australia,2,2,0,0
+"Men's Doubles","Chinese Taipei",2,2,0,0
+"Women's Doubles",Italy,2,2,0,0
+"Skeet Mixed Team",Italy,2,2,0,0
+"Marathon Race Walk Relay Mixed",Spain,2,2,0,0
+"Mixed Dinghy",Austria,2,2,0,0
+"Mixed Multihull",Italy,2,2,0,0
+"Women's Madison",Italy,2,2,0,0
+Men,Sweden,2,2,0,0
+"Men's Madison",Portugal,2,2,0,0
+"Men's Individual Time Trial",Belgium,2,1,0,1
+"Women's Foil Individual","United States",2,1,1,0
+"10m Air Pistol Women",Korea,2,1,1,0
+"Women's Street",Japan,2,1,1,0
+"Women's 100m Butterfly","United States",2,1,1,0
+"Women's Sabre Individual",France,2,1,1,0
+"Women's 200m Freestyle",Australia,2,1,1,0
+"Women's Park",Australia,2,1,0,1
+"Women's All-Around","United States",2,1,0,1
+"Women's Vault","United States",2,1,0,1
+"Men's Shot Put","United States",2,1,1,0
+"Skeet Men","United States",2,1,1,0
+"Women's 800m Freestyle","United States",2,1,0,1
+"Men's Individual",Korea,2,1,0,1
+"Men's Rings",China,2,1,1,0
+"Men's 100m","United States",2,1,0,1
+"Women's High Jump",Ukraine,2,1,0,1
+"Dressage Individual",Germany,2,1,1,0
+"Women's Balance Beam",Italy,2,1,0,1
+"Women's 5000m",Kenya,2,1,1,0
+"25m Rapid Fire Pistol Men",China,2,1,0,1
+"Men's 1500m","United States",2,1,0,1
+"Women's 200m","United States",2,1,0,1
+"Women's 10m Platform",China,2,1,1,0
+"Women's Speed",Poland,2,1,0,1
+"Men's 110m Hurdles","United States",2,1,1,0
+"Women's 400m Hurdles","United States",2,1,1,0
+"Women's Long Jump","United States",2,1,0,1
+"Men's 3m Springboard",China,2,1,1,0
+"Women's 3m Springboard",China,2,1,0,1
+"Men's 10km",Hungary,2,1,0,1
+"10m Air Pistol Men",Italy,2,0,1,1
+"Men's Street","United States",2,0,1,1
+"Women's 400m Individual Medley","United States",2,0,1,1
+"Women's 100m Backstroke","United States",2,0,1,1
+"Men's All-Around",China,2,0,1,1
+Men,China,2,0,1,1
+"Women's 100m","United States",2,0,1,1
+"Men's Road Race",France,2,0,1,1
+"Men's 100m Butterfly",Canada,2,0,1,1
+"Women's High Jump",Australia,2,0,1,1
+"Men's 200m","United States",2,0,1,1
+"Men's Kayak Single 1000m",Hungary,2,0,1,1
+"Men's Keirin",Australia,2,0,1,1
+"Women's Synchronised 3m Springboard","United States",2,0,2,0
+"Women's Synchronised 3m Springboard","Great Britain",2,0,0,2
+"10m Air Rifle Mixed Team",Korea,2,0,2,0
+"10m Air Rifle Mixed Team",Kazakhstan,2,0,0,2
+"Men's Synchronised 10m Platform","Great Britain",2,0,2,0
+"Men's Synchronised 10m Platform",Canada,2,0,0,2
+"10m Air Pistol Mixed Team",Türkiye,2,0,2,0
+"10m Air Pistol Mixed Team",India,2,0,0,2
+"Mixed Doubles","DPR Korea",2,0,2,0
+"Women's Synchronised 10m Platform","DPR Korea",2,0,2,0
+"Women's Synchronised 10m Platform","Great Britain",2,0,0,2
+"Men's Double Sculls",Netherlands,2,0,2,0
+"Men's Double Sculls",Ireland,2,0,0,2
+"Women's Double Sculls",Romania,2,0,2,0
+"Women's Double Sculls","Great Britain",2,0,0,2
+"Mixed Team",Germany,2,0,2,0
+"Mixed Team","United States",2,0,0,2
+"Mixed Doubles",Japan,2,0,0,2
+"Men's Synchronised 3m Springboard",Mexico,2,0,2,0
+"Men's Synchronised 3m Springboard","Great Britain",2,0,0,2
+"Lightweight Men's Double Sculls",Italy,2,0,2,0
+"Lightweight Men's Double Sculls",Greece,2,0,0,2
+"Lightweight Women's Double Sculls",Romania,2,0,2,0
+"Lightweight Women's Double Sculls",Greece,2,0,0,2
+"Men's Pair","Great Britain",2,0,2,0
+"Men's Pair",Switzerland,2,0,0,2
+"Women's Pair",Romania,2,0,2,0
+"Women's Pair",Australia,2,0,0,2
+"Men's Skiff","New Zealand",2,0,2,0
+"Men's Skiff","United States",2,0,0,2
+"Women's Skiff",Sweden,2,0,2,0
+"Women's Skiff",France,2,0,0,2
+"Mixed Doubles",Canada,2,0,0,2
+"Women's Doubles",Japan,2,0,0,2
+"Men's Doubles",China,2,0,2,0
+"Men's Doubles",Malaysia,2,0,0,2
+"Women's Doubles",AIN,2,0,2,0
+"Women's Doubles",Spain,2,0,0,2
+"Skeet Mixed Team","United States",2,0,2,0
+"Skeet Mixed Team",China,2,0,0,2
+"Marathon Race Walk Relay Mixed",Ecuador,2,0,2,0
+"Marathon Race Walk Relay Mixed",Australia,2,0,0,2
+"Mixed Dinghy",Japan,2,0,2,0
+"Mixed Dinghy",Sweden,2,0,0,2
+"Mixed Multihull",Argentina,2,0,2,0
+"Mixed Multihull","New Zealand",2,0,0,2
+"Women's Madison","Great Britain",2,0,2,0
+"Women's Madison",Netherlands,2,0,0,2
+Men,Norway,2,0,0,2
+"Men's Madison",Italy,2,0,2,0
+"Men's Madison",Denmark,2,0,0,2
